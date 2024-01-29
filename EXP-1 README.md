@@ -1,3 +1,4 @@
+![Screenshot 2024-01-29 123003](https://github.com/Sai918222/compiler-design/assets/113423387/a505d3e2-3e4e-43bc-b5be-c16686d93754)
 #include<stdio.h>
 #include<ctype.h>
 #include<string.h>
