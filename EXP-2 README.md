@@ -31,5 +31,5 @@ int main()
 	}
 	else 
 		printf("\n It is not a comment");
-}![Screenshot 2024-01-29 130818](https://github.com/Sai918222/compiler-design/assets/113423387/15f655f3-f6f2-4f80-a208-a9e1a88ce1f2)
+}![Screenshot 2024-01-29 130818](https://github.com/Sai918222/compiler-design/assets/113423387/d09480cd-3d5a-413d-9841-5ca04660b722)
 
